@@ -1,27 +1,91 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>- A React project displaying album data<br>- Learning to code games on Unity<br>- Understanding unit testing with Xunit (Theory and ClassData)<br>- Exploring open-source games<br><br>👯 I’m looking to collaborate on:<br>- Projects or discussions related to backend development<br><br>🤝 I’m looking for help with:<br>- Smart scale recommendations<br><br>🌱 I’m currently learning:<br>- Basic React with Tailwind CSS<br>- Networking setups for high-performance<br><br>💬 Ask me about:<br>- ASP.NET Core, SQL Server, backend development<br>- Hosting a full-stack app (React and ASP.NET Core) on Azure<br>- Setting up GitHub Actions for CI/CD
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1F6FEB&height=170&section=header&text=Tran%20Quang%20Minh&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Backend%20Developer%20%E2%80%A2%20C%23%20%2F%20.NET&descSize=17&descAlignY=56" width="100%" alt="Tran Quang Minh — Backend Developer" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hiTech2605) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_braykul.2605) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitech2605) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19427740/minh-curus) 
+**I build backend APIs that stay correct under load: multi-tenant SaaS, concurrency-safe booking, and real-time systems.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=minhcurus&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=minhcurus&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhcurus&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hitech2605-0A66C2?style=for-the-badge)](https://linkedin.com/in/hitech2605)
+[![Email](https://img.shields.io/badge/Email-minhtq.2605%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhtq.2605@gmail.com)
+![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-DA251D?style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open%20to-Fresher%2FJunior%20.NET%20roles-2EA043?style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=minhcurus&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## About me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=minhcurus&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+- 💼 Former **Product Backend Intern at [GEEKUP](https://geekup.vn)** (09/2026 – 11/2026), working on a multi-tenant SaaS product.
+- 🧱 There I built new APIs alongside a legacy service using the Strangler Fig pattern, writing characterization tests before changing any existing behaviour.
+- 👥 I led the **backend team** on two capstone products, [AIDEFCOM](https://github.com/GFA25SE99-FA25SE211) and [FORMALE](https://github.com/EXE201-Formale).
+- 🎓 B.Sc. Software Engineering, **FPT University** (2022 – 2026). Previously a Backend Developer Intern at **FPT Software**.
+- 🤖 I use AI-assisted development (Claude Code, Codex), and every change still goes through code review and automated tests.
 
----
-[![](https://visitcount.itsvg.in/api?id=minhcurus&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Area | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,ts,py" height="36" alt="C#, TypeScript, Python" /> &nbsp; ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt=".NET" /> &nbsp; ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square) ![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,redis" height="36" alt="PostgreSQL, Redis" /> &nbsp; ![SQL Server](https://img.shields.io/badge/SQL%20Server%20%2F%20Azure%20SQL-CC2927?style=flat-square) |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=azure,docker,git,gitlab,pnpm" height="36" alt="Azure, Docker, Git, GitLab, pnpm" /> &nbsp; ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps%20CI%2FCD-0078D7?style=flat-square) |
+| **Testing & Quality** | <img src="https://skillicons.dev/icons?i=vitest,postman" height="36" alt="Vitest, Postman" /> &nbsp; ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=flat-square) ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square) |
+| **Architecture** | Clean Architecture · Ports & Adapters · SOLID · Strangler Fig · Transactional Outbox · TDD |
+| **AI** | OpenAI API · RAG / Vector Store · OpenRouter · Claude Code · Codex |
+
+## Featured projects
+
+### 🎟️ [Concert Ticket Booking Platform](https://github.com/minhcurus/concert-ticket-booking-platform)
+`.NET 10` `EF Core` `PostgreSQL` `Redis` `xUnit` `Testcontainers` `Docker Compose`
+
+A backend for booking concert tickets. The design goal was correctness under concurrent load: no overselling, no duplicate bookings, and no voucher over-redemption.
+- Reservations use `SELECT … FOR UPDATE` row locks, taken in a fixed order to avoid deadlocks, with database constraints as the source of truth.
+- `Idempotency-Key` on reserve, with a Redis `SETNX` fast path and a unique-constraint fallback.
+- A `BackgroundService` expires unpaid holds and uses a Redis leader lock, so it stays safe when the service is scaled out.
+- Integration tests run against real PostgreSQL and Redis through Testcontainers. Design notes are in [`docs/architecture.md`](https://github.com/minhcurus/concert-ticket-booking-platform/blob/master/docs/architecture.md).
+
+### 🎓 [AIDEFCOM](https://github.com/GFA25SE99-FA25SE211): AI-powered thesis defense support system
+`Backend Team Leader` `ASP.NET Core` `Azure SQL` `Redis` `SignalR` `Azure Blob Storage` `Docker` `Azure DevOps`
+
+- I led the backend team and built REST APIs for defense sessions, scoring and reports, with real-time updates over SignalR.
+- I designed the Azure SQL schema, the Redis caching and the Docker-based CI/CD pipeline on Azure DevOps.
+- The system spans four repos: [API](https://github.com/GFA25SE99-FA25SE211/AIDefCom.API) (C#), [Web](https://github.com/GFA25SE99-FA25SE211/AIDefCom.Web) (Next.js), [Mobile](https://github.com/GFA25SE99-FA25SE211/AIDefCom.Mobile) and an [AI service](https://github.com/GFA25SE99-FA25SE211/AIDefCom.AIServer) for speech-to-text, voice authentication and duplicate-question detection.
+
+### 👔 [FORMALE](https://github.com/EXE201-Formale/Formale_EXE201): AI-powered fashion e-commerce
+`Backend Team Leader` `ASP.NET Core 8` `SQL Server` `EF Core` `Clean Architecture` `JWT` `Cloudinary` `PayOS` `OpenRouter`
+
+- REST APIs for product search, filtering, pagination, image upload, reviews and PayOS payment.
+- Built on Clean Architecture with DTOs and a service layer. An LLM suggests outfits that match each user's style.
+- 🌐 [Landing page](https://formale-landing.vercel.app)
+
+### 🤖 [chatbot-mini](https://github.com/minhcurus/chatbot-mini): RAG support assistant
+`Python` `OpenAI Assistants API` `Vector Store` `Docker`
+
+- Scrapes a Zendesk help center, converts the articles to Markdown and indexes them in an OpenAI Vector Store.
+- A daily job re-uploads only new or changed articles. It keeps a manifest in GitHub so state survives on ephemeral hosts.
+
+## Experience
+
+**Product Backend Intern · [GEEKUP](https://geekup.vn)** · *09/2026 – 11/2026*<br/>
+<sub>Multi-tenant SaaS product · NestJS, TypeScript, Vitest</sub>
+- Built new APIs alongside a legacy service using the Strangler Fig pattern, writing characterization tests first.
+- Delivered schema-validated REST APIs, including a bulk CSV import that returns a per-row issue report.
+- Built authenticated, role-checked APIs with validated file uploads, plus a review flow for new applications.
+- Made multi-step tenant provisioning retry-safe with per-step checkpoints, and moved email delivery to a **transactional outbox**.
+
+**Backend Developer Intern · FPT Software** · *09/2024 – 12/2024*
+- Developed and unit-tested C#/ASP.NET Core backend modules and service-layer logic alongside senior engineers.
+
+## Awards & certifications
+
+- 🏆 **Top Contributor Award**, Knowledge Sharing Contest, NIC × Google Digital Talent Community (2025)
+- 📜 Google AI Essentials · Google Prompting Essentials (Coursera, 2025) · FPT Software OJT Program (2025)
+
+<details>
+<summary><b>📊 GitHub stats</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=minhcurus&show_icons=true&theme=transparent&hide_border=true&hide=contribs&custom_title=GitHub%20Stats&title_color=512BD4&icon_color=1F6FEB" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhcurus&layout=compact&langs_count=6&hide=html,css&theme=transparent&hide_border=true&title_color=512BD4" height="165" alt="Top languages" />
+</div>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1F6FEB&height=90&section=footer" width="100%" alt="" />
